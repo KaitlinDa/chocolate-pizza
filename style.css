@@ -1,0 +1,18 @@
+.ingredients-list {
+    background-image: url('images/list-bg.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    padding: 50px;
+    margin: 0 auto;
+    list-style-type: none;
+    
+  }
+  
+  .ingredients-list li {
+    margin-bottom: 15px; 
+    padding-left: 20px;
+  }
+  
+  .ingredients-list input[type="checkbox"] {
+    margin-right: 10px;
+  }
